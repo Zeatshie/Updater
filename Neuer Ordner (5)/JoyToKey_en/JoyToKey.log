@@ -1,0 +1,176 @@
+2018.09.09 17:56:15.856 Info   Starting JoyToKey Ver5.9
+2018.09.09 17:56:15.856 Info   ExeFile=C:\Users\zeats\OneDrive\Desktop\Neuer Ordner (5)\JoyToKey_en\JoyToKey.exe
+2018.09.09 17:56:15.856 Info   ConfigDir=C:\Users\zeats\OneDrive\Desktop\Neuer Ordner (5)\JoyToKey_en\
+2018.09.09 17:56:15.856 Info   IniFile=C:\Users\zeats\OneDrive\Desktop\Neuer Ordner (5)\JoyToKey_en\JoyToKey.ini
+2018.09.09 17:56:15.856 Info   Windows Version = 6.2
+2018.09.09 17:56:15.857 Info   Loaded VistaAPI.dll (Utils\Utils.cpp#226)
+2018.09.09 17:56:15.857 Info   LicenseKey "" is not valid
+2018.09.09 17:56:15.890 Info   Loading XInput1_3.dll (Joystick.cpp#128)
+2018.09.09 17:56:15.891 Info   Initialized XInput (Joystick.cpp#146)
+2018.09.09 17:56:16.045 Info   Detected a DI joystick: {95F30CF0-92C0-11E8-8002-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:16.045 Info   Preferred index = 0
+2018.09.09 17:56:16.045 Info   numAxis = 0
+2018.09.09 17:56:16.045 Info   numPOVs = 0
+2018.09.09 17:56:16.045 Info   numButtons = 0
+2018.09.09 17:56:16.045 Info   Detected a DI joystick: {95F33400-92C0-11E8-8004-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:16.045 Info   Preferred index = -1
+2018.09.09 17:56:16.045 Info   numAxis = 0
+2018.09.09 17:56:16.045 Info   numPOVs = 0
+2018.09.09 17:56:16.045 Info   numButtons = 0
+2018.09.09 17:56:16.047 Info   Detected a DI joystick: {95F33400-92C0-11E8-8006-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:16.047 Info   Preferred index = -1
+2018.09.09 17:56:16.048 Info   numAxis = 0
+2018.09.09 17:56:16.048 Info   numPOVs = 0
+2018.09.09 17:56:16.048 Info   numButtons = 246
+2018.09.09 17:56:16.048 Info   Detected a DI joystick: {95F38220-92C0-11E8-800B-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:16.048 Info   Preferred index = -1
+2018.09.09 17:56:16.049 Info   numAxis = 5
+2018.09.09 17:56:16.049 Info   numPOVs = 0
+2018.09.09 17:56:16.049 Info   numButtons = 16
+2018.09.09 17:56:16.049 Info   EnumDeviceObject: Axis offset=0 type=202 name=Schubkontrolle
+2018.09.09 17:56:16.049 Info   EnumDeviceObject: Axis offset=4 type=102 name=Y-Achse
+2018.09.09 17:56:16.049 Info   EnumDeviceObject: Axis offset=8 type=2 name=X-Achse
+2018.09.09 17:56:16.049 Info   EnumDeviceObject: Axis offset=12 type=402 name=Y-Rotation
+2018.09.09 17:56:16.049 Info   EnumDeviceObject: Axis offset=16 type=302 name=X-Rotation
+2018.09.09 17:56:16.057 Info   Detected a DI joystick: {9CAF9660-B44B-11E8-8001-444553540000}, USB Joystick          , USB Joystick          
+2018.09.09 17:56:16.057 Info   Preferred index = 0
+2018.09.09 17:56:16.058 Info   numAxis = 4
+2018.09.09 17:56:16.058 Info   numPOVs = 1
+2018.09.09 17:56:16.058 Info   numButtons = 12
+2018.09.09 17:56:16.058 Info   EnumDeviceObject: Axis offset=0 type=102 name=Y-Achse
+2018.09.09 17:56:16.058 Info   EnumDeviceObject: Axis offset=4 type=2 name=X-Achse
+2018.09.09 17:56:16.058 Info   EnumDeviceObject: Axis offset=8 type=502 name=Z-Rotation
+2018.09.09 17:56:16.058 Info   EnumDeviceObject: Axis offset=12 type=202 name=Z-Achse
+2018.09.09 17:56:16.058 Info   DetectJoysticks: Detected 5 DI joystick(s)
+2018.09.09 17:56:16.061 Info   Joystick #1: Unified Virtual HID
+2018.09.09 17:56:16.061 Info   Joystick #2: Unified Virtual HID
+2018.09.09 17:56:16.061 Info   Joystick #3: Unified Virtual HID
+2018.09.09 17:56:16.061 Info   Joystick #4: Unified Virtual HID
+2018.09.09 17:56:16.061 Info   Joystick #5: USB Joystick
+2018.09.09 17:56:16.061 Info   5 joysticks are detected (Joystick.cpp#168)
+2018.09.09 17:56:16.061 Info   ConfigDir=C:\Users\zeats\OneDrive\Desktop\Neuer Ordner (5)\JoyToKey_en\*.cfg (ConfigFileManager.cpp#43)
+2018.09.09 17:56:16.062 Info   --- Loading "AppLink.dat" --- (AppLink\AppLinkManager.cpp#36)
+2018.09.09 17:56:16.086 Info   TimerInit: Initializing timer with x1 speed mode (interval = 16 msec)
+2018.09.09 17:56:24.056 Info   AppLink is temporarily disabled (Main.cpp#1382)
+2018.09.09 17:56:25.109 Info   Disabling joystick processing temporarily (Main.cpp#1394)
+2018.09.09 17:56:27.475 Info   Detected a DI joystick: {95F30CF0-92C0-11E8-8002-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:27.475 Info   Preferred index = 0
+2018.09.09 17:56:27.476 Info   numAxis = 0
+2018.09.09 17:56:27.476 Info   numPOVs = 0
+2018.09.09 17:56:27.476 Info   numButtons = 0
+2018.09.09 17:56:27.476 Info   Detected a DI joystick: {95F33400-92C0-11E8-8004-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:27.476 Info   Preferred index = -1
+2018.09.09 17:56:27.476 Info   numAxis = 0
+2018.09.09 17:56:27.476 Info   numPOVs = 0
+2018.09.09 17:56:27.476 Info   numButtons = 0
+2018.09.09 17:56:27.477 Info   Detected a DI joystick: {95F33400-92C0-11E8-8006-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:27.477 Info   Preferred index = -1
+2018.09.09 17:56:27.479 Info   numAxis = 0
+2018.09.09 17:56:27.479 Info   numPOVs = 0
+2018.09.09 17:56:27.479 Info   numButtons = 246
+2018.09.09 17:56:27.479 Info   Detected a DI joystick: {95F38220-92C0-11E8-800B-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:27.479 Info   Preferred index = -1
+2018.09.09 17:56:27.479 Info   numAxis = 5
+2018.09.09 17:56:27.479 Info   numPOVs = 0
+2018.09.09 17:56:27.479 Info   numButtons = 16
+2018.09.09 17:56:27.479 Info   EnumDeviceObject: Axis offset=0 type=202 name=Schubkontrolle
+2018.09.09 17:56:27.479 Info   EnumDeviceObject: Axis offset=4 type=102 name=Y-Achse
+2018.09.09 17:56:27.479 Info   EnumDeviceObject: Axis offset=8 type=2 name=X-Achse
+2018.09.09 17:56:27.479 Info   EnumDeviceObject: Axis offset=12 type=402 name=Y-Rotation
+2018.09.09 17:56:27.479 Info   EnumDeviceObject: Axis offset=16 type=302 name=X-Rotation
+2018.09.09 17:56:27.488 Info   Detected a DI joystick: {9CAF9660-B44B-11E8-8001-444553540000}, USB Joystick          , USB Joystick          
+2018.09.09 17:56:27.488 Info   Preferred index = 0
+2018.09.09 17:56:27.488 Info   numAxis = 4
+2018.09.09 17:56:27.488 Info   numPOVs = 1
+2018.09.09 17:56:27.488 Info   numButtons = 12
+2018.09.09 17:56:27.488 Info   EnumDeviceObject: Axis offset=0 type=102 name=Y-Achse
+2018.09.09 17:56:27.488 Info   EnumDeviceObject: Axis offset=4 type=2 name=X-Achse
+2018.09.09 17:56:27.488 Info   EnumDeviceObject: Axis offset=8 type=502 name=Z-Rotation
+2018.09.09 17:56:27.488 Info   EnumDeviceObject: Axis offset=12 type=202 name=Z-Achse
+2018.09.09 17:56:27.488 Info   DetectJoysticks: Detected 5 DI joystick(s)
+2018.09.09 17:56:27.489 Info   Joystick #1: Unified Virtual HID
+2018.09.09 17:56:27.489 Info   Joystick #2: Unified Virtual HID
+2018.09.09 17:56:27.489 Info   Joystick #3: Unified Virtual HID
+2018.09.09 17:56:27.489 Info   Joystick #4: Unified Virtual HID
+2018.09.09 17:56:27.489 Info   Joystick #5: USB Joystick
+2018.09.09 17:56:39.784 Info   Detected a DI joystick: {95F30CF0-92C0-11E8-8002-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:39.785 Info   Preferred index = 0
+2018.09.09 17:56:39.785 Info   numAxis = 0
+2018.09.09 17:56:39.785 Info   numPOVs = 0
+2018.09.09 17:56:39.785 Info   numButtons = 0
+2018.09.09 17:56:39.785 Info   Detected a DI joystick: {95F33400-92C0-11E8-8004-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:39.785 Info   Preferred index = -1
+2018.09.09 17:56:39.785 Info   numAxis = 0
+2018.09.09 17:56:39.785 Info   numPOVs = 0
+2018.09.09 17:56:39.785 Info   numButtons = 0
+2018.09.09 17:56:39.786 Info   Detected a DI joystick: {95F33400-92C0-11E8-8006-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:39.786 Info   Preferred index = -1
+2018.09.09 17:56:39.788 Info   numAxis = 0
+2018.09.09 17:56:39.788 Info   numPOVs = 0
+2018.09.09 17:56:39.788 Info   numButtons = 246
+2018.09.09 17:56:39.788 Info   Detected a DI joystick: {95F38220-92C0-11E8-800B-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:56:39.788 Info   Preferred index = -1
+2018.09.09 17:56:39.789 Info   numAxis = 5
+2018.09.09 17:56:39.789 Info   numPOVs = 0
+2018.09.09 17:56:39.789 Info   numButtons = 16
+2018.09.09 17:56:39.789 Info   EnumDeviceObject: Axis offset=0 type=202 name=Schubkontrolle
+2018.09.09 17:56:39.789 Info   EnumDeviceObject: Axis offset=4 type=102 name=Y-Achse
+2018.09.09 17:56:39.789 Info   EnumDeviceObject: Axis offset=8 type=2 name=X-Achse
+2018.09.09 17:56:39.789 Info   EnumDeviceObject: Axis offset=12 type=402 name=Y-Rotation
+2018.09.09 17:56:39.789 Info   EnumDeviceObject: Axis offset=16 type=302 name=X-Rotation
+2018.09.09 17:56:39.797 Info   Detected a DI joystick: {9CAF9660-B44B-11E8-8001-444553540000}, USB Joystick          , USB Joystick          
+2018.09.09 17:56:39.797 Info   Preferred index = 0
+2018.09.09 17:56:39.797 Info   numAxis = 4
+2018.09.09 17:56:39.797 Info   numPOVs = 1
+2018.09.09 17:56:39.797 Info   numButtons = 12
+2018.09.09 17:56:39.797 Info   EnumDeviceObject: Axis offset=0 type=102 name=Y-Achse
+2018.09.09 17:56:39.797 Info   EnumDeviceObject: Axis offset=4 type=2 name=X-Achse
+2018.09.09 17:56:39.797 Info   EnumDeviceObject: Axis offset=8 type=502 name=Z-Rotation
+2018.09.09 17:56:39.797 Info   EnumDeviceObject: Axis offset=12 type=202 name=Z-Achse
+2018.09.09 17:56:39.798 Info   DetectJoysticks: Detected 5 DI joystick(s)
+2018.09.09 17:56:39.798 Info   Joystick #1: Unified Virtual HID
+2018.09.09 17:56:39.798 Info   Joystick #2: Unified Virtual HID
+2018.09.09 17:56:39.798 Info   Joystick #3: Unified Virtual HID
+2018.09.09 17:56:39.798 Info   Joystick #4: Unified Virtual HID
+2018.09.09 17:56:39.798 Info   Joystick #5: USB Joystick
+2018.09.09 17:57:01.663 Info   Detected a DI joystick: {95F30CF0-92C0-11E8-8002-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:57:01.663 Info   Preferred index = 0
+2018.09.09 17:57:01.664 Info   numAxis = 0
+2018.09.09 17:57:01.664 Info   numPOVs = 0
+2018.09.09 17:57:01.664 Info   numButtons = 0
+2018.09.09 17:57:01.664 Info   Detected a DI joystick: {95F33400-92C0-11E8-8004-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:57:01.664 Info   Preferred index = -1
+2018.09.09 17:57:01.664 Info   numAxis = 0
+2018.09.09 17:57:01.664 Info   numPOVs = 0
+2018.09.09 17:57:01.664 Info   numButtons = 0
+2018.09.09 17:57:01.665 Info   Detected a DI joystick: {95F33400-92C0-11E8-8006-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:57:01.666 Info   Preferred index = -1
+2018.09.09 17:57:01.667 Info   numAxis = 0
+2018.09.09 17:57:01.667 Info   numPOVs = 0
+2018.09.09 17:57:01.667 Info   numButtons = 246
+2018.09.09 17:57:01.667 Info   Detected a DI joystick: {95F38220-92C0-11E8-800B-444553540000}, Unified Virtual HID, Unified Virtual HID
+2018.09.09 17:57:01.667 Info   Preferred index = -1
+2018.09.09 17:57:01.667 Info   numAxis = 5
+2018.09.09 17:57:01.667 Info   numPOVs = 0
+2018.09.09 17:57:01.667 Info   numButtons = 16
+2018.09.09 17:57:01.668 Info   EnumDeviceObject: Axis offset=0 type=202 name=Schubkontrolle
+2018.09.09 17:57:01.668 Info   EnumDeviceObject: Axis offset=4 type=102 name=Y-Achse
+2018.09.09 17:57:01.668 Info   EnumDeviceObject: Axis offset=8 type=2 name=X-Achse
+2018.09.09 17:57:01.668 Info   EnumDeviceObject: Axis offset=12 type=402 name=Y-Rotation
+2018.09.09 17:57:01.668 Info   EnumDeviceObject: Axis offset=16 type=302 name=X-Rotation
+2018.09.09 17:57:01.676 Info   Detected a DI joystick: {9CAF9660-B44B-11E8-8001-444553540000}, USB Joystick          , USB Joystick          
+2018.09.09 17:57:01.676 Info   Preferred index = 0
+2018.09.09 17:57:01.677 Info   numAxis = 4
+2018.09.09 17:57:01.677 Info   numPOVs = 1
+2018.09.09 17:57:01.677 Info   numButtons = 12
+2018.09.09 17:57:01.677 Info   EnumDeviceObject: Axis offset=0 type=102 name=Y-Achse
+2018.09.09 17:57:01.677 Info   EnumDeviceObject: Axis offset=4 type=2 name=X-Achse
+2018.09.09 17:57:01.677 Info   EnumDeviceObject: Axis offset=8 type=502 name=Z-Rotation
+2018.09.09 17:57:01.677 Info   EnumDeviceObject: Axis offset=12 type=202 name=Z-Achse
+2018.09.09 17:57:01.677 Info   DetectJoysticks: Detected 5 DI joystick(s)
+2018.09.09 17:57:01.677 Info   Joystick #1: Unified Virtual HID
+2018.09.09 17:57:01.677 Info   Joystick #2: Unified Virtual HID
+2018.09.09 17:57:01.677 Info   Joystick #3: Unified Virtual HID
+2018.09.09 17:57:01.677 Info   Joystick #4: Unified Virtual HID
+2018.09.09 17:57:01.677 Info   Joystick #5: USB Joystick
+2018.09.09 18:12:51.242 Info   Application terminated (Utils\LogFile.cpp#20)
