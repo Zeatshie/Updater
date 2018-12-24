@@ -1,1 +1,1 @@
-2 https://raw.githubusercontent.com/Zeatshie/Updater/master/icon.png,
+2
