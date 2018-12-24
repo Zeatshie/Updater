@@ -1,3 +1,1 @@
-<Version: 1.0.2>
-/data/icon.PNG https://raw.githubusercontent.com/Zeatshie/Updater/master/icon.png
-<End of Version>
+2
