@@ -1,3 +1,7 @@
 <Version: 1.01>
 /Update/Update1.zip http://download1639.mediafire.com/94dbq9jjy4zg/a8b923mo1kx17ud/Update1.zip
 <End of Version>
+
+<Version: 1.02>
+/Update/bild1.png http://download2267.mediafire.com/q6b4tpn37kwg/3m3pq2oqcy19ypd/bild1.png
+<End of Version>
